@@ -1,3 +1,0 @@
-This is a git repository of my code for the DisCo project.
-
-stripcorpus.py is designed to read in the reuters21578 corpus, identify title, topic, body and training-split; remove SGML tags and write document files based on split and topic.  The top 8 topic directories are written to a file list 
